@@ -90,16 +90,16 @@
 
 .reveal .story * {
 	display: inline-block;
+	text-align: left;
 }
 
 .reveal .story dt {
 	font-weight: bold;
-	width: 34%;
+	width: 35%;
 	margin-bottom: 0.8em;
 }
 
 .reveal .story dd {
-	vertical-align: middle;
 	width: 60%;
 }
 
